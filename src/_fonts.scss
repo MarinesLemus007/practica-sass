@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'RobotoCondensed-Light';
+    src: url('../fonts/RobotoCondensed-Light.ttf');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Regular';
+    src: url('../fonts/RobotoCondensed-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'RobotoCondensed-Bold';
+    src: url('../fonts/RobotoCondensed-Bold.ttf');
+}
+
+$font-light: RobotoCondensed-Light;
+$font-Regular: RobotoCondensed-Regular;
+$font-Bold: RobotoCondensed-Bold;
+
+@mixin bold() {
+    font-family: $font-Bold;
+    font-size: 14px;
+}
+
+strong, b{
+    @include bold();
+}
+
+p{
+    font-family: $font-Regular;
+    font-size: 14px;
+    color: #3e3e3e;
+}

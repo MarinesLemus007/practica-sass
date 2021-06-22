@@ -1,0 +1,28 @@
+@mixin btn($secondary-color, $font-color, $bold){
+    background-color: $secondary-color;
+    color: $font-color;
+    border-radius: 6px;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    @if($bold = 'true'){
+        font-weight: bolder;
+    }
+}
+
+section{
+    .box{
+        
+        .button{
+            @include btn($secondary-color, $font-color, 'true');
+
+            &:hover{
+                @include btn($terciary-color, $font-color, 'true')
+            }
+        }
+    
+    }
+}
