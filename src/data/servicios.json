@@ -1,0 +1,17 @@
+[
+    {
+        "titulo":"Permiso Temporal Individual de Desplazamiento General",
+        "descripcion":"Este permiso habilita para la realización de cualquier actividad que no se encuentre prohibida (compras de insumos básicos, pago de servicios, asistencia a centros de salud, entre otros). Al momento de solicitarlo, el usuario no necesita expresar el motivo de su solicitud. Este permiso podrá ser solicitado hasta 2 (dos) veces a la semana en las comunas en Paso 1 (Cuarentena) y solo 1 (una) vez a la semana en aquellas comunas que se encuentren en Paso 2 (Transición). Durante los fines de semana (sábado y domingo) solamente se podrá solicitar un (1) permiso, limitación que se extenderá a los días feriados que sean contiguos a éstos. No habilita para el traslado durante horario de toque de queda. No habilita para el paso a través de cordones sanitarios. Duración: 2 horas.",
+        "ancla":"#"
+    },
+    {
+        "titulo":"Traslado de Niño, Niña y/o Adolescente entre las casas de sus Padres",
+        "descripcion":"Traslado de niños, niñas o adolescentes menores de 18 años entre las casas de sus padres o tutores, conforme al acuerdo existente entre el padre, madre y/o los encargados del cuidado personal, según corresponda, o de conformidad al régimen de relación directa y regular establecido en la resolución emanada del respectivo tribunal competente. Lo anterior, a menos que: (i) el padre, madre o familiar que viva en el lugar presente síntomas; o, (ii) el niño, niña o adolescente presente síntomas. El solicitante (padre, madre o cuidador) deberá indicar el nombre y las cédulas nacionales de identidad de los padres o del cuidador o los cuidadores encargados del cuidado personal y del niño, niña o adolescente, los domicilios de estos y el régimen de relación directa y regular vigente y el tiempo de permanencia que estará en el domicilio del solicitante.",
+        "ancla":"#"
+    },
+    {
+        "titulo":"Salvoconducto individual - Tratamientos médicos",
+        "descripcion":"Herramienta disponible para toda la ciudadanía, en la cual podrá solicitar autorización temporal para asistir a centros, servicios y establecimientos de Salud por tratamiento médico.",
+        "ancla":"#"
+    }
+]
